@@ -1,0 +1,9 @@
+C:\Users\HP\documents\visual studio 2017\Projects\STATIONARY MANAGER\STATIONARY MANAGER\bin\Release\STATIONARY MANAGER.exe.config
+C:\Users\HP\documents\visual studio 2017\Projects\STATIONARY MANAGER\STATIONARY MANAGER\bin\Release\STATIONARY MANAGER.exe
+C:\Users\HP\documents\visual studio 2017\Projects\STATIONARY MANAGER\STATIONARY MANAGER\bin\Release\STATIONARY MANAGER.pdb
+C:\Users\HP\documents\visual studio 2017\Projects\STATIONARY MANAGER\STATIONARY MANAGER\obj\Release\STATIONARY_MANAGER.ADMIN.resources
+C:\Users\HP\documents\visual studio 2017\Projects\STATIONARY MANAGER\STATIONARY MANAGER\obj\Release\STATIONARY_MANAGER.Form1.resources
+C:\Users\HP\documents\visual studio 2017\Projects\STATIONARY MANAGER\STATIONARY MANAGER\obj\Release\STATIONARY_MANAGER.Properties.Resources.resources
+C:\Users\HP\documents\visual studio 2017\Projects\STATIONARY MANAGER\STATIONARY MANAGER\obj\Release\STATIONARY MANAGER.csproj.GenerateResource.Cache
+C:\Users\HP\documents\visual studio 2017\Projects\STATIONARY MANAGER\STATIONARY MANAGER\obj\Release\STATIONARY MANAGER.exe
+C:\Users\HP\documents\visual studio 2017\Projects\STATIONARY MANAGER\STATIONARY MANAGER\obj\Release\STATIONARY MANAGER.pdb

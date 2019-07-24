@@ -1,0 +1,11 @@
+c:\users\hp\documents\visual studio 2017\Projects\STATIONARY MANAGER\STATIONARY MANAGER\bin\Debug\STATIONARY MANAGER.exe.config
+c:\users\hp\documents\visual studio 2017\Projects\STATIONARY MANAGER\STATIONARY MANAGER\bin\Debug\STATIONARY MANAGER.exe
+c:\users\hp\documents\visual studio 2017\Projects\STATIONARY MANAGER\STATIONARY MANAGER\bin\Debug\STATIONARY MANAGER.pdb
+c:\users\hp\documents\visual studio 2017\Projects\STATIONARY MANAGER\STATIONARY MANAGER\obj\Debug\STATIONARY_MANAGER.Form1.resources
+c:\users\hp\documents\visual studio 2017\Projects\STATIONARY MANAGER\STATIONARY MANAGER\obj\Debug\STATIONARY_MANAGER.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2017\Projects\STATIONARY MANAGER\STATIONARY MANAGER\obj\Debug\STATIONARY MANAGER.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2017\Projects\STATIONARY MANAGER\STATIONARY MANAGER\obj\Debug\STATIONARY MANAGER.exe
+c:\users\hp\documents\visual studio 2017\Projects\STATIONARY MANAGER\STATIONARY MANAGER\obj\Debug\STATIONARY MANAGER.pdb
+c:\users\hp\documents\visual studio 2017\Projects\STATIONARY MANAGER\STATIONARY MANAGER\obj\Debug\STATIONARY_MANAGER.ADMIN.resources
+C:\Users\HP\Documents\Visual Studio 2017\Projects\STATIONARY MANAGER\STATIONARY MANAGER\obj\Debug\STATIONARY MANAGER.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\STATIONARY MANAGER\STATIONARY MANAGER\obj\Debug\STATIONARY MANAGER.csproj.CoreCompileInputs.cache
